@@ -1,0 +1,4 @@
+<vector android:height="150dp" android:viewportHeight="150"
+    android:viewportWidth="150" android:width="150dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff0000" android:name="ic_rojo" android:pathData="m150 0c0 37.23 0 74.47 0 111.7c-16.6 3.43 -29.74 13.46 -35.36 27.66c-0.71 3.55 -1.43 7.09 -2.14 10.64c-36.78 0 -73.58 0 -110.36 0c-0.71 -0.35 -1.43 -0.71 -2.14 -1.06c2.69 -79.26 68.6 -148.4 150 -148.94z"/>
+</vector>
